@@ -1,5 +1,5 @@
 # StationScope
-### **App link: https://station-scope.up.railway.app/**
+### **App link: stationscope.app**
 
 - StationScope is a desktop/mobile app that turns a work address into a personalized, data-driven NYC housing guide.
 - Get mapped stations, census insights, and a tailored AI report in minutes!
