@@ -1,6 +1,6 @@
 # StationScope
 
-App is at: stationscope.app
+App is at: https://stationscope.app
 
 - StationScope is a desktop/mobile app that turns a work address into a personalized, data-driven NYC housing guide.
 - Get mapped stations, census insights, and a tailored report in minutes!
